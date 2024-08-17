@@ -22,7 +22,7 @@ there are higher interest rates?
 
 ## Files for instruction team review
 1. Final GitHub repository with our code and source files
-2. Write-up summary - Project proposal.docx (see above file attached here in GitHub) - this includes the team's Visualization, Analysis and Conclusion and Write-up summarizes our observations and implication on housing values.
+2. Write-up summary - Project proposal.docx (see (https://docs.google.com/document/d/17bhnvGpJXXbv0uKpuYwCl9vWoZq_a45wecZYsigpIYU/edit#heading=h.z6ne0og04bp5)) - this includes the team's Visualization, Analysis and Conclusion and Write-up summarizes our observations and implication on housing values.
 3. Slide Deck used during out presentation can be found here: https://docs.google.com/presentation/d/1d1L3Om8kEsws7-LqAilryggnqHugl5K2H7W6PoViepg/edit?usp=sharing
 
 ## Dependencies and Setup: 
