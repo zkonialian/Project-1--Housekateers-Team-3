@@ -26,7 +26,7 @@ there are higher interest rates?
 3. Slide Deck used during out presentation can be found here: https://docs.google.com/presentation/d/1d1L3Om8kEsws7-LqAilryggnqHugl5K2H7W6PoViepg/edit?usp=sharing
 
 ## Dependencies and Setup: 
-The team leveraged the following libraries for this project
+The team leveraged the following libraries for this project: 
 shutil
 ZipFile
 matplotlib
