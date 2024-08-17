@@ -13,6 +13,7 @@ order by surname):
 * Zaineb Konialian
 * Carlos Ortiz
 * Talibah Timothy
+  
 ## Background
 Historically there was generally a negative correlation between housing prices
 and interest rates.  However, in 2023 - 2024, there has been a positive
@@ -23,3 +24,25 @@ there are higher interest rates?
 1. Final GitHub repository with our code and source files
 2. Write-up summary - Project proposal.docx (see above file attached here in GitHub) - this includes the team's Visualization, Analysis and Conclusion and Write-up summarizes our observations and implication on housing values.
 3. Slide Deck used during out presentation can be found here: https://docs.google.com/presentation/d/1d1L3Om8kEsws7-LqAilryggnqHugl5K2H7W6PoViepg/edit?usp=sharing
+
+## Dependencies and Setup: 
+The team leveraged the following libraries for this project
+shutil
+ZipFile
+matplotlib
+from bubbly
+squarify
+numpy
+pandas 
+requests
+seaborn
+scipy.stats
+linregress
+pathlib used Path
+
+## Data Sourcing
+Please slide 4 of the slide deck for the data sourcing used. 
+No licensing was required. All data was obtained through public domain.
+
+## Team Collaboration Approach
+The team worked on discrete portions of the project. Each member has committed their respective code to this GitHub repository under their individual branches. No merging is required.   
