@@ -18,3 +18,8 @@ Historically there was generally a negative correlation between housing prices
 and interest rates.  However, in 2023 - 2024, there has been a positive
 correlation.  What is driving housing prices to still remain high even though
 there are higher interest rates?
+
+## Files for instruction team review
+1. Final GitHub repository with our code and source files
+2. Write-up summary - Project proposal.docx - this includes the team's Visualization, Analysis and Conclusion and Write-up summarizes our observations and implication on housing values.
+3. Slide Deck used during out presentation can be found here: https://docs.google.com/presentation/d/1d1L3Om8kEsws7-LqAilryggnqHugl5K2H7W6PoViepg/edit?usp=sharing
