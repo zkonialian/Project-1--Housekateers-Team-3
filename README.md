@@ -41,7 +41,7 @@ linregress
 pathlib used Path
 
 ## Data Sourcing
-Please slide 4 of the slide deck for the data sourcing used. 
+Please see slide 4 of the slide deck for the data sourcing used. 
 No licensing was required. All data was obtained through public domain.
 
 ## Team Collaboration Approach
